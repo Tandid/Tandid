@@ -8,9 +8,10 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
 
 - 🎨 I have a keen eye for design and love creating visually appealing and user-friendly applications.
 - 📚 I'm constantly learning and exploring new technologies to stay up-to-date and I'm loving every minute of it! 
-     ( Currently attempting to learn more about cloud infrastructure and system design )    
-- 💪 I love to stay in shape both mentally and physically. Catch me at the gym in my down time!
-- 🎮 I'm a huge gamer! Valorant, Smash Bros, Pokemon.. I've played it all! Let's play 👀
+     (Currently attempting to learn more about cloud infrastructure and system design)    
+- 💪 I love to stay in shape both mentally and physically. Catch me unwinding at the gym in my free time!
+- 🎮 I'm a huge gamer! Valorant, Smash Bros, Pokemon... you name it. Let's play! 👀
+- 🏂 Adventure is in my blood! I love the thrill of biking, snowboarding, and traveling!
 
 <!-- - 🌐 Check out my website to learn more about me: [tandidalam.com](https://tandidalam.com/) -->
 
