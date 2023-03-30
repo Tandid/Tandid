@@ -27,7 +27,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
 
 ## 💻 Technologies
 
-### Programming Languages and Markup Languages
+### Programming and Markup Languages
 
 <div>
      <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
