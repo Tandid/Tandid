@@ -7,11 +7,10 @@ Driven by creativity and technical prowess, I'm a versatile engineer who excels 
 ## 🌟 About Me
 
 - 🎨 I have a keen eye for design and love creating visually appealing and user-friendly applications.
-- 📚 I'm constantly learning and exploring new technologies to stay up-to-date and I'm loving every minute of it!
-  (Currently learning ThreeJS and 3D Modeling with Blender)
-- 💪 I love to stay in shape both mentally and physically. Catch me unwinding at the gym in my free time!
-- 🎮 I'm a huge gamer! Valorant, Smash Bros, Pokemon... you name it. Let's play! 👀
-- 🏂 I love adventures! I'm always up for outdoor activities like biking, snowboarding, and traveling in general!
+- 📚 I'm dedicated to continuous learning and exploration of new technologies! (Currently diving into ThreeJS and 3D Modeling with Blender)
+- 💪 I love to stay in shape both mentally and physically. You'll often find me unwinding at the gym during my free time.
+- 🎮 I'm an avid gamer! Whether it's Valorant, Smash Bros, or Pokemon, I'm always up for a challenge! 👀
+- 🏂 I love sports and adventures! I play basketball, pickleball, and volleyball in my free time!
 
 <!-- - 🌐 Check out my website to learn more about me: [tandidalam.com](https://tandidalam.com/) -->
 
