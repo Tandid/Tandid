@@ -91,7 +91,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
 
 <!-- Row 1 -->
 <div style="display: flex; justify-content: space-between;">
-     <div style="margin-right: 5px; text-align: center;">
+     <div style="margin-right: 2px; text-align: center;">
           <h3>The Hooded Hero (2D Platformer)</h3>
           <a href="" target="_blank">
                <img alt="Blender" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
@@ -107,7 +107,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
 
 <!-- Row 2 -->
 <div style="display: flex; justify-content: space-between;">
-     <div style="margin-right: 5px; text-align: center;">
+     <div style="margin-right: 2px; text-align: center;">
           <h3>Buzzer (Twitter Clone) </h3>
           <a href="" target="_blank">
                <img alt="Blender" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
