@@ -87,36 +87,24 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
 <!-- [![Tandid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandid&show_icons=true&theme=prussian)](https://github.com/tandid/github-readme-stats) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandid&theme=prussian) -->
 
-## 👾 Projects
+<!-- ## 👾 Projects -->
 
 <!-- Row 1 -->
-<div style="display: flex; justify-content: center;">
-     <div style="text-align: center; margin-right: 20px;">
-          <h3>The Hooded Hero (2D Platformer)</h3>
-          <a href="" target="_blank">
-               <img alt="The Hooded Hero" width="350px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
-          </a>
-     </div>
-     <div style="text-align: center;">
-          <h3>Poptoons Shop (E-Commerce)</h3>
-          <a href="" target="_blank">
-               <img alt="Poptoons Shop" width="350px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350170/level_1_ak5lmy.png" />
-          </a>
-     </div>
-</div>
+<!-- <div align="center">
+     <a href="https://the-hooded-hero.vercel.app/" target="_blank">
+          <img alt="The Hooded Hero" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
+     </a>
+     <a href="https://poptoons-shop.vercel.app/" target="_blank">
+          <img alt="Poptoons Shop" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721508408/Screenshot_2024-07-20_at_4.45.51_PM_mdllhw.png" />
+     </a>
+</div> -->
 
 <!-- Row 2 -->
-<div align="center">
-     <div >
-          <h3>Buzzer (Twitter Clone) </h3>
-          <a href="" target="_blank">
-               <img alt="Buzzer" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
-          </a>
-     </div>
-     <div >
-          <h3>Fitflex (Fitness Tracker)</h3>
-          <a href="" target="_blank">
-               <img alt="Fitflex" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350170/level_1_ak5lmy.png" />
-          </a>
-     </div>
-</div>
+<!-- <div align="center">
+     <a href="" target="_blank">
+          <img alt="Buzzer" width="350px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
+     </a>
+     <a href="" target="_blank">
+          <img alt="Fitflex" width="350px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350170/level_1_ak5lmy.png" />
+     </a>
+</div> -->
