@@ -6,7 +6,7 @@ Driven by creativity and technical prowess, I'm a versatile engineer who excels 
 
 ## 🌟 About Me
 
-- 🎨 I have a keen eye for design and love creating visually appealing and user-friendly applications.
+- 🎨 I have a keen eye for design and love creating visually stunning and user-friendly applications.
 - 📚 I'm dedicated to continuous learning and exploration of new technologies! (Currently diving into ThreeJS and 3D Modeling with Blender)
 - 💪 I love to stay in shape both mentally and physically. You'll often find me unwinding at the gym during my free time.
 - 🎮 I'm an avid gamer! Whether it's Valorant, Smash Bros, or Pokemon, I'm always up for a challenge! 👀
