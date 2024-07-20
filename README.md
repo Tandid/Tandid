@@ -90,34 +90,33 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
 ## 👾 Projects
 
 <!-- Row 1 -->
-<div style="display: flex; justify-content: space-between;">
-     <div style="margin-right: 2px; text-align: center;">
+<div style="display: flex; justify-content: center;">
+     <div style="text-align: center; margin-right: 20px;">
           <h3>The Hooded Hero (2D Platformer)</h3>
           <a href="" target="_blank">
-               <img alt="Blender" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
+               <img alt="The Hooded Hero" width="350px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
           </a>
      </div>
      <div style="text-align: center;">
-          <h3>Poptoons Shop (E-Commerce) </h3>
+          <h3>Poptoons Shop (E-Commerce)</h3>
           <a href="" target="_blank">
-               <img alt="Blender" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350170/level_1_ak5lmy.png" />
+               <img alt="Poptoons Shop" width="350px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350170/level_1_ak5lmy.png" />
           </a>
      </div>
 </div>
 
 <!-- Row 2 -->
-<div style="display: flex; justify-content: space-between;">
-     <div style="margin-right: 2px; text-align: center;">
+<div align="center">
+     <div >
           <h3>Buzzer (Twitter Clone) </h3>
           <a href="" target="_blank">
-               <img alt="Blender" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
+               <img alt="Buzzer" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
           </a>
      </div>
-     <div style="text-align: center;">
+     <div >
           <h3>Fitflex (Fitness Tracker)</h3>
           <a href="" target="_blank">
-               <img alt="Blender" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350170/level_1_ak5lmy.png" />
+               <img alt="Fitflex" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350170/level_1_ak5lmy.png" />
           </a>
      </div>
 </div>
-
