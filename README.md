@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Tandid Alam!
+# 👋 Hi there! I'm Tandid!
 
 **`Full Stack Software Engineer`**
 
