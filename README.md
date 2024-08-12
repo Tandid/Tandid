@@ -86,43 +86,74 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
 
 <table>
   <tr>
+  <!-- Project 1 -->
     <td >
       <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" width="200" alt="Project 1"/>
     </td>
     <td>
       <p style="font-size: 1.17em; font-weight: bold">The Hooded Hero</p>
-      <p>Short description of Project 1. This project does X, Y, and Z.</p>
-      <a href="https://the-hooded-hero.vercel.app/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+      <p>2D Platformer Game with Online Multiplayer.</p>
+      <a href="https://github.com/Tandid/The-Hooded-Hero-V2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
     </td>
   </tr>
+
+  <!-- Project 2 -->
   <tr>
     <td style="padding-top: 15px">
       <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721508408/Screenshot_2024-07-20_at_4.45.51_PM_mdllhw.png" width="200" alt="Project 2"/>
     </td>
     <td style="padding-top: 15px">
        <p style="font-size: 1.17em; font-weight: bold">Pop Toons Shop</p>
-      <p>Brief explanation of Project 2. It's designed to solve A, B, and C problems.</p>
-      <a href="https://poptoons-shop.vercel.app/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+      <p>E-Commerce App that sells Funko Pops.</p>
+      <a href="https://github.com/Tandid/PopToons-Shop-V2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
     </td>
   </tr>
+
+  <!-- Project 3 -->
   <tr>
     <td style="padding-top: 15px">
-      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721508408/Screenshot_2024-07-20_at_4.45.51_PM_mdllhw.png" width="200" alt="Project 2"/>
+      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1723436896/Buzzerhome_dqfb3l.png" width="200" alt="Project 2"/>
     </td>
     <td style="padding-top: 15px">
-       <p style="font-size: 1.17em; font-weight: bold">Pop Toons Shop</p>
-      <p>Brief explanation of Project 2. It's designed to solve A, B, and C problems.</p>
-      <a href="https://poptoons-shop.vercel.app/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+       <p style="font-size: 1.17em; font-weight: bold">Buzzer</p>
+      <p>Social Media App that mimics Twitter.</p>
+      <a href="https://github.com/Tandid/Buzzer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
     </td>
   </tr>
+
+  <!-- Project 4 -->
   <tr>
     <td style="padding-top: 15px">
-      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721508408/Screenshot_2024-07-20_at_4.45.51_PM_mdllhw.png" width="200" alt="Project 2"/>
+      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1723436994/Screenshot_2024-08-12_at_12.29.14_AM_riney6.png" width="200" alt="Project 2"/>
     </td>
     <td style="padding-top: 15px">
-       <p style="font-size: 1.17em; font-weight: bold">Pop Toons Shop</p>
-      <p>Brief explanation of Project 2. It's designed to solve A, B, and C problems.</p>
-      <a href="https://poptoons-shop.vercel.app/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+       <p style="font-size: 1.17em; font-weight: bold">Fitflex (Chingu Voyage 49)</p>
+      <p>Fitness Tracker App for logging workouts.</p>
+      <a href="https://github.com/chingu-voyages/v49-tier3-team-28"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+    </td>
+  </tr>
+
+  <!-- Project 5 -->
+  <tr>
+    <td style="padding-top: 15px">
+      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1723437289/Screenshot_2024-08-12_at_12.33.10_AM_utrsiy.png" width="200" alt="Project 2"/>
+    </td>
+    <td style="padding-top: 15px">
+       <p style="font-size: 1.17em; font-weight: bold">iClassroom</p>
+      <p>Education Portal similar to Blackboard.</p>
+      <a href="https://github.com/Tandid/iClassroom"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+    </td>
+  </tr>
+
+  <!-- Project 6 -->
+  <tr>
+    <td style="padding-top: 15px">
+      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1723228093/Screenshot_2024-08-09_at_2.20.45_PM_vt81sw.png" width="200" alt="Project 2"/>
+    </td>
+    <td style="padding-top: 15px">
+       <p style="font-size: 1.17em; font-weight: bold">Annote (Chingu Voyage 50)</p>
+      <p>Note Taking App.</p>
+      <a href="https://github.com/chingu-voyages/v50-tier3-team-24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
     </td>
   </tr>
 </table>
