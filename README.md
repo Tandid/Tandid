@@ -2,16 +2,15 @@
 
 **`Full Stack Software Engineer`**
 
-I'm a passionate **software engineer** and **design enthusiast** who loves turning ideas into reality. Welcome to my GitHub profile! 🚀
+I'm a versatile **software engineer** and **design enthusiast** who loves transforming ideas into reality. Welcome to my GitHub profile! 🚀
 
 ## 🌟 About Me
 
-- 🎨 I have a keen eye for design and love creating visually appealing and user-friendly applications.
-- 📚 I'm constantly learning and exploring new technologies to stay up-to-date and I'm loving every minute of it!
-  (Currently learning ThreeJS and 3D Modeling with Blender)
-- 💪 I love to stay in shape both mentally and physically. Catch me unwinding at the gym in my free time!
-- 🎮 I'm a huge gamer! Valorant, Smash Bros, Pokemon... you name it. Let's play! 👀
-- 🏂 I love adventures! I'm always up for outdoor activities like biking, snowboarding, and traveling in general!
+- 🎨 I have a keen eye for design and love creating visually stunning and user-friendly applications.
+- 📚 I'm dedicated to continuous learning and exploration of new technologies!
+- 💪 I love to stay in shape both mentally and physically. You'll often find me unwinding at the gym.
+- 🎮 I'm an avid gamer! Whether it's Valorant, Smash Bros, or Pokemon, I'm always up for a challenge! 👀
+- 🏂 I love sports and outdoor activities! Catch me playing basketball, pickleball, and volleyball in my free time!
 
 <!-- - 🌐 Check out my website to learn more about me: [tandidalam.com](https://tandidalam.com/) -->
 
@@ -82,7 +81,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
    
 </div>
 
-## 🚀 Projects
+## 🚀 Solo Projects
 
 <table>
   <tr>
@@ -132,8 +131,28 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
      <img src="https://skillicons.dev/icons?i=javascript,mongodb" width="100" />
     </td>
   </tr>
+</table>
 
+## 🤝 Collaborative Projects & Open Source Contributions
+
+<table>
   <!-- Project 4 -->
+  <tr>
+    <td style="padding-top: 15px">
+      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1723228093/Screenshot_2024-08-09_at_2.20.45_PM_vt81sw.png" width="200" alt="Project 2"/>
+    </td>
+    <td style="padding-top: 15px">
+       <p style="font-size: 1.17em; font-weight: bold">Annote (Chingu Voyage 50)</p>
+      <p>Note Taking App.</p>
+      <a href="https://github.com/chingu-voyages/v50-tier3-team-24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+        <a href="https://annote.pages.dev/"><img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>   
+    </td>
+     <td>
+     <img src="https://skillicons.dev/icons?i=typescript,nuxt,supabase" width="150" />
+    </td>
+  </tr>
+
+  <!-- Project 5 -->
   <tr>
     <td style="padding-top: 15px">
       <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1723436994/Screenshot_2024-08-12_at_12.29.14_AM_riney6.png" width="200" alt="Project 2"/>
@@ -149,7 +168,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
     </td>
   </tr>
 
-  <!-- Project 5 -->
+  <!-- Project 6 -->
   <tr>
     <td style="padding-top: 15px">
       <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1723437289/Screenshot_2024-08-12_at_12.33.10_AM_utrsiy.png" width="200" alt="Project 2"/>
@@ -162,22 +181,6 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
     </td>
      <td>
      <img src="https://skillicons.dev/icons?i=javascript,react,redux,postgres" width="200" />
-    </td>
-  </tr>
-
-  <!-- Project 6 -->
-  <tr>
-    <td style="padding-top: 15px">
-      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1723228093/Screenshot_2024-08-09_at_2.20.45_PM_vt81sw.png" width="200" alt="Project 2"/>
-    </td>
-    <td style="padding-top: 15px">
-       <p style="font-size: 1.17em; font-weight: bold">Annote (Chingu Voyage 50)</p>
-      <p>Note Taking App.</p>
-      <a href="https://github.com/chingu-voyages/v50-tier3-team-24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
-        <a href="https://annote.pages.dev/"><img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>   
-    </td>
-     <td>
-     <img src="https://skillicons.dev/icons?i=typescript,nuxt,supabase" width="150" />
     </td>
   </tr>
 </table>
