@@ -94,6 +94,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
       <p>2D Platformer Game with Online Multiplayer</p>
       <a href="https://github.com/yourusername/the-hooded-hero">GitHub Repository</a>
     </td>
+    <td style="width: 10%;"></td>
     <td style="width: 45%; text-align: center; vertical-align: middle; ">
       <a href="https://poptoons-shop.vercel.app/">
         <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721508408/Screenshot_2024-07-20_at_4.45.51_PM_mdllhw.png" width="100%" alt="Pop Toons Shop"/>
@@ -104,3 +105,8 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
     </td>
   </tr>
 </table>
+
+<!-- ## 📊 Stats -->
+
+<!-- [![Tandid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandid&show_icons=true&theme=prussian)](https://github.com/tandid/github-readme-stats) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandid&theme=prussian) -->
