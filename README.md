@@ -86,27 +86,23 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
 
 <table>
   <tr>
-    <td style="width: 45%; text-align: center; vertical-align: middle;">
-      <a href="https://the-hooded-hero.vercel.app/">
-        <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" width="100%" alt="The Hooded Hero"/>
-      </a>
-      <h3>The Hooded Hero</h3>
-      <p>2D Platformer Game with Online Multiplayer</p>
-      <a href="https://github.com/yourusername/the-hooded-hero">GitHub Repository</a>
+    <td style="width: 200px; text-align: center; vertical-align: middle;">
+      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" width="200" alt="Project 1"/>
     </td>
-    <td style="width: 10%;"></td>
-    <td style="width: 45%; text-align: center; vertical-align: middle; ">
-      <a href="https://poptoons-shop.vercel.app/">
-        <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721508408/Screenshot_2024-07-20_at_4.45.51_PM_mdllhw.png" width="100%" alt="Pop Toons Shop"/>
-      </a>
+    <td style="vertical-align: middle;">
+      <h3>The Hooded Hero</h3>
+      <p>Short description of Project 1. This project does X, Y, and Z.</p>
+      <a href="https://the-hooded-hero.vercel.app/">GitHub Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 200px; text-align: center; vertical-align: middle;">
+      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721508408/Screenshot_2024-07-20_at_4.45.51_PM_mdllhw.png" width="200" alt="Project 2"/>
+    </td>
+    <td style="vertical-align: top;">
       <h3>Pop Toons Shop</h3>
-      <p>E-Commerce App for Funko Pops.</p>
-      <a href="https://github.com/yourusername/poptoons-shop">GitHub Repository</a>
+      <p>Brief explanation of Project 2. It's designed to solve A, B, and C problems.</p>
+      <a href="https://poptoons-shop.vercel.app/">GitHub Repository</a>
     </td>
   </tr>
 </table>
-
-<!-- ## 📊 Stats -->
-
-<!-- [![Tandid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandid&show_icons=true&theme=prussian)](https://github.com/tandid/github-readme-stats) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandid&theme=prussian) -->
