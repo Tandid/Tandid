@@ -119,7 +119,7 @@ I'm a versatile **software engineer** and **design enthusiast** who loves transf
   <!-- Project 3 -->
   <tr>
     <td style="padding-top: 15px">
-      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1723436896/Buzzerhome_dqfb3l.png" width="200" alt="Project 2"/>
+      <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1723444110/Screenshot_2024-08-12_at_2.27.07_AM_nhpuce.png" width="200" alt="Project 2"/>
     </td>
     <td style="padding-top: 15px">
        <p style="font-size: 1.17em; font-weight: bold">Buzzer</p>
