@@ -94,7 +94,8 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
       <p style="font-size: 1.17em; font-weight: bold">The Hooded Hero</p>
       <p>2D Platformer Game with Online Multiplayer.</p>
       <a href="https://github.com/Tandid/The-Hooded-Hero-V2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
-    </td>
+      <a href="https://the-hooded-hero.vercel.app/"><img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>         
+     </td>
     <td>
      <img src="https://skillicons.dev/icons?i=typescript,next" width="100" />
     </td>
@@ -106,9 +107,10 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
       <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721508408/Screenshot_2024-07-20_at_4.45.51_PM_mdllhw.png" width="200" alt="Project 2"/>
     </td>
     <td style="padding-top: 15px">
-       <p style="font-size: 1.17em; font-weight: bold">Pop Toons Shop</p>
-      <p>E-Commerce App that sells Funko Pops.</p>
-      <a href="https://github.com/Tandid/PopToons-Shop-V2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+          <p style="font-size: 1.17em; font-weight: bold">Pop Toons Shop</p>
+          <p>E-Commerce App that sells Funko Pops.</p>
+          <a href="https://github.com/Tandid/PopToons-Shop-V2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+          <a href="https://poptoons-shop.vercel.app/"><img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>   
     </td>
      <td>
      <img src="https://skillicons.dev/icons?i=typescript,next,mongodb" width="150" />
@@ -124,6 +126,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
        <p style="font-size: 1.17em; font-weight: bold">Buzzer</p>
       <p>Social Media App that mimics Twitter.</p>
       <a href="https://github.com/Tandid/Buzzer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+        <a href="https://buzzer-twitterclone.herokuapp.com/"><img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>   
     </td>
      <td>
      <img src="https://skillicons.dev/icons?i=javascript,mongodb,postgres" width="150" />
@@ -139,6 +142,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
        <p style="font-size: 1.17em; font-weight: bold">Fitflex (Chingu Voyage 49)</p>
       <p>Fitness Tracker App for logging workouts.</p>
       <a href="https://github.com/chingu-voyages/v49-tier3-team-28"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+        <a href="https://fit-flex-lime.vercel.app/"><img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>   
     </td>
      <td>
      <img src="https://skillicons.dev/icons?i=typescript,next,mongodb" width="150" />
@@ -154,6 +158,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
        <p style="font-size: 1.17em; font-weight: bold">iClassroom</p>
       <p>Education Portal similar to Blackboard.</p>
       <a href="https://github.com/Tandid/iClassroom"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+        <a href="https://i-classroom.herokuapp.com/"><img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>   
     </td>
      <td>
      <img src="https://skillicons.dev/icons?i=javascript,react,redux" width="150" />
@@ -169,6 +174,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
        <p style="font-size: 1.17em; font-weight: bold">Annote (Chingu Voyage 50)</p>
       <p>Note Taking App.</p>
       <a href="https://github.com/chingu-voyages/v50-tier3-team-24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/></a>
+        <a href="https://annote.pages.dev/"><img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>   
     </td>
      <td>
      <img src="https://skillicons.dev/icons?i=typescript,nuxt,supabase" width="150" />
