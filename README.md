@@ -1,16 +1,17 @@
-# 👋 Hi there! I'm Tandid!
+# 👋 Hi there! I'm Tandid Alam!
 
 **`Full Stack Software Engineer`**
 
-Driven by creativity and technical prowess, I'm a versatile engineer who excels at transforming ideas into engaging digital experiences! Welcome to my GitHub profile! 🚀
+I'm a passionate **software engineer** and **design enthusiast** who loves turning ideas into reality. Welcome to my GitHub profile! 🚀
 
 ## 🌟 About Me
 
-- 🎨 I have a keen eye for design and love creating visually stunning and user-friendly applications.
-- 📚 I'm dedicated to continuous learning and exploration of new technologies! (Currently diving into ThreeJS and 3D Modeling with Blender)
-- 💪 I love to stay in shape both mentally and physically. You'll often find me unwinding at the gym during my free time.
-- 🎮 I'm an avid gamer! Whether it's Valorant, Smash Bros, or Pokemon, I'm always up for a challenge! 👀
-- 🏂 I love sports and adventures! I play basketball, pickleball, and volleyball in my free time!
+- 🎨 I have a keen eye for design and love creating visually appealing and user-friendly applications.
+- 📚 I'm constantly learning and exploring new technologies to stay up-to-date and I'm loving every minute of it!
+  (Currently learning ThreeJS and 3D Modeling with Blender)
+- 💪 I love to stay in shape both mentally and physically. Catch me unwinding at the gym in my free time!
+- 🎮 I'm a huge gamer! Valorant, Smash Bros, Pokemon... you name it. Let's play! 👀
+- 🏂 I love adventures! I'm always up for outdoor activities like biking, snowboarding, and traveling in general!
 
 <!-- - 🌐 Check out my website to learn more about me: [tandidalam.com](https://tandidalam.com/) -->
 
@@ -81,29 +82,25 @@ Driven by creativity and technical prowess, I'm a versatile engineer who excels 
    
 </div>
 
-<!-- ## 📊 Stats -->
+## 🚀 Projects
 
-<!-- [![Tandid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandid&show_icons=true&theme=prussian)](https://github.com/tandid/github-readme-stats) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandid&theme=prussian) -->
-
-<!-- ## 👾 Projects -->
-
-<!-- Row 1 -->
-<!-- <div align="center">
-     <a href="https://the-hooded-hero.vercel.app/" target="_blank">
-          <img alt="The Hooded Hero" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
-     </a>
-     <a href="https://poptoons-shop.vercel.app/" target="_blank">
-          <img alt="Poptoons Shop" height="200px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721508408/Screenshot_2024-07-20_at_4.45.51_PM_mdllhw.png" />
-     </a>
-</div> -->
-
-<!-- Row 2 -->
-<!-- <div align="center">
-     <a href="" target="_blank">
-          <img alt="Buzzer" width="350px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" />
-     </a>
-     <a href="" target="_blank">
-          <img alt="Fitflex" width="350px" src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350170/level_1_ak5lmy.png" />
-     </a>
-</div> -->
+<table>
+  <tr>
+    <td style="width: 45%; text-align: center; vertical-align: middle;">
+      <a href="https://the-hooded-hero.vercel.app/">
+        <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721350172/level_3_domw7a.png" width="100%" alt="The Hooded Hero"/>
+      </a>
+      <h3>The Hooded Hero</h3>
+      <p>2D Platformer Game with Online Multiplayer</p>
+      <a href="https://github.com/yourusername/the-hooded-hero">GitHub Repository</a>
+    </td>
+    <td style="width: 45%; text-align: center; vertical-align: middle; ">
+      <a href="https://poptoons-shop.vercel.app/">
+        <img src="https://res.cloudinary.com/dgxqotorm/image/upload/v1721508408/Screenshot_2024-07-20_at_4.45.51_PM_mdllhw.png" width="100%" alt="Pop Toons Shop"/>
+      </a>
+      <h3>Pop Toons Shop</h3>
+      <p>E-Commerce App for Funko Pops.</p>
+      <a href="https://github.com/yourusername/poptoons-shop">GitHub Repository</a>
+    </td>
+  </tr>
+</table>
