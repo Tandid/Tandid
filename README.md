@@ -129,7 +129,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
         <a href="https://buzzer-twitterclone.herokuapp.com/"><img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>   
     </td>
      <td>
-     <img src="https://skillicons.dev/icons?i=javascript,mongodb,postgres" width="150" />
+     <img src="https://skillicons.dev/icons?i=javascript,mongodb" width="100" />
     </td>
   </tr>
 
@@ -161,7 +161,7 @@ I'm a passionate **software engineer** and **design enthusiast** who loves turni
         <a href="https://i-classroom.herokuapp.com/"><img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>   
     </td>
      <td>
-     <img src="https://skillicons.dev/icons?i=javascript,react,redux" width="150" />
+     <img src="https://skillicons.dev/icons?i=javascript,react,redux,postgres" width="200" />
     </td>
   </tr>
 
